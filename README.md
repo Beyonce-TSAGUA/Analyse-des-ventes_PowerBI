@@ -40,3 +40,17 @@ git clone https://github.com/ton-github/tableau-de-bord-ventes.git
 3️⃣ **Ouvrir Power BI** et charger les données  
 4️⃣ **Explorer les visualisations et ajuster les filtres interactifs**  
 
+## 👤 Auteur
+
+Projet réalisé dans un objectif de montée en compétences en Data Science RH & Business Intelligence.
+
+---
+
+## 📬 Contact
+
+Pour toute collaboration ou amélioration :
+📧 Email : tsaguayb@3il.fr
+💼 LinkedIn : https://www.linkedin.com/in/beyonc%C3%A9-tsagua/
+
+---
+
